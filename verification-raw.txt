@@ -1,0 +1,12 @@
+wordcraft v0.5.0 | GLIBC_2.30 | ldd:0 | smoke:ok | AppImage:30M | sha256:8ab719ac134245c2ec73f2c8af5dd06a5f1c27cbfe9bb7a26e12f9df877bb31a | 2026-10-11
+gridcraft v0.5.0 | GLIBC_2.30 | ldd:0 | smoke:ok | AppImage:16M | sha256:801d0abd36d6d0737446d6c8898aebea67fbcd64025789bb93d4bc7cdd60a99d | 2026-10-11
+deckcraft v0.5.0 | GLIBC_2.30 | ldd:0(libasound ok) | smoke:ok | AppImage:25M | sha256:8013b8cfd3c7baa70b39b9b0fdb18458812f07939699f22e017330f9e05dda2f | 2026-10-11
+pdfcraft v0.6.0 | GLIBC_2.30 | ldd:0 | smoke:ok | AppImage:47M | sha256:6bd7674a092b1ff028426789b959ee43e0fce4680b5d0c5482948e2b2331bcf4 | 2026-10-11
+designcraft v0.6.0 | GLIBC_2.30 | ldd:0 | smoke:ok | AppImage:37M | sha256:3932ba602154893bb83c13df148b65ab8fc619d2949cef70d5d7418eecb7cf01 | 2026-10-11
+lightcraft v0.6.0 | GLIBC_2.30 | ldd:0 | smoke:ok | AppImage:37M | sha256:699086895051d163e64edcbb8a6cb5d1a30fae0848a9b8e882328c66103d8c62 | 2026-10-11
+soundcraft v0.5.0 | GLIBC_2.30 | ldd:0(libasound ok) | smoke:ok | AppImage:15M | sha256:4fe0ad0f42953a4f7dcf1e4568c15aab4a8beae6753582092db1560a7b2eabdb | 2026-10-11
+vectorcraft v0.9.0 | GLIBC_2.30 | ldd:0 | smoke:ok | AppImage:48M | sha256:8e01ee6f5fa5b07c8a7f1e402d349703ae948fbb8e80cf80740d4045c40aa837 | built:-j1-after-OOM | 2026-10-11
+effectcraft v0.8.0 | GLIBC_2.30 | ldd:0(libasound ok) | smoke:ok | AppImage:53M | sha256:52522d0377ba67271e1a8d9005d5d57fb5dc565d6eb909db1e3094a4053f1f78 | built:LTO=false-link-livelock | 2026-10-11
+cadcraft v0.5.0 | GLIBC_2.30 | ldd:0 | smoke:ok | AppImage:21M | sha256:5e01f86365959e7640973321695a5a461911606f4ad668c68c4426aa3cd6d6b0 | 2026-10-11
+photocraft v0.7.0 | GLIBC_2.30 | ldd:0 | smoke:ok | AppImage:43M | sha256:05d67e641d5f84630fb8f8819e7e6ed9ff59ace96e5436c36de51a80c3848ef7 | built:-j1-after-OOM | 2026-10-11
+filmcraft v0.6.0 | GLIBC_2.30 | ldd:0(libasound ok) | smoke:ok | AppImage:35M | sha256:54154264cda06e66c8a3fc42134bf4adfc7a81c2e1164d3f306085c24f043dcb | 2026-10-11
